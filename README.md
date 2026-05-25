@@ -1,4 +1,4 @@
-# Cyberpunk Neural.OS Developer Portfolio
+Neural.OS Developer Portfolio
 
 A highly modern, futuristic, premium-quality developer portfolio website built using **Next.js 14/15 (App Router)**, **Tailwind CSS v4**, and **Framer Motion**. Styled with a dark cyberpunk aesthetic featuring electric violet, neon purple, and glowing cyan gradients over deep spatial backdrops.
 
